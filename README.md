@@ -1,22 +1,18 @@
-# k8s-fundamentals
+# Docker Deep Dive
 
-- Kubernetes concepts
+- Containers: A brief history
 
-- Kubernetes Architecture
+- Docker Overview/CLI
 
-- Pods and Containers
+- Understanding Docker images
 
-- Kubectl
+- Building Docker images with a Dockerfile (Basic)
 
-- Deployments
+- Building Docker images with a Dockerfile (Advanced)
 
-- Labels and Annotations
+- Networking and Volumes
 
-- Service and Selectors
+- Docker Compose
 
-- Ingress
-
-- Volumes
-
-- Configmaps | Secrets
+- Security
 
